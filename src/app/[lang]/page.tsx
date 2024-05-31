@@ -68,9 +68,9 @@ const Home: FC<HomeProps> = ({ params }) => {
           <Desktop_HomeSectionFourth page={page} lang={params.lang} />
         </div>
       </div>
-      <div>
+      <div className="bg-[#383838]">
         <div className="2xl:block xl:block lg:block hidden">
-          <ContactForm page={page} lang={params.lang} />
+          {/* <ContactForm page={page} lang={params.lang} /> */}
         </div>
       </div>
     </Layout>

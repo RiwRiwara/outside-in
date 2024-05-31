@@ -17,21 +17,29 @@ const desktopMenuLists = [
     route: "/",
   },
   {
-    title: "Our Team",
-    route: "/ourteam",
-  },
-  {
-    title: "Service",
+    title: "Our Service",
     route: "/services",
   },
   {
-    title: "Blog",
-    route: "/blogs",
+    title: "Projects",
+    route: "#",
   },
-  {
-    title: "Career",
-    route: "/career",
-  },
+  // {
+  //   title: "Our Team",
+  //   route: "/ourteam",
+  // },
+  // {
+  //   title: "Service",
+  //   route: "/services",
+  // },
+  // {
+  //   title: "Blog",
+  //   route: "/blogs",
+  // },
+  // {
+  //   title: "Career",
+  //   route: "/career",
+  // },
   {
     title: "Contact us",
     route: "/contact",
@@ -106,14 +114,16 @@ export const Topbar: FC<topbarProps> = ({ lang }) => {
 
   const ref = useRef(null);
   const { scrollY } = useScroll({ target: ref });
+
   const backgroundColor = useTransform(
     scrollY,
     [0, 100],
     [
-      `${pathname.includes("/blogs/") ? "#171717DD" : "transparent"}`,
-      "#171717DD",
+      `${pathname.includes("/blogs/") ? "rgba(217, 217, 217, 0.1)" : "rgba(217, 217, 217, 0.1)"}`,
+      "rgba(217, 217, 217, 0.1)",
     ]
   );
+  
 
   const changeLang = () => {
     const switchLang = lang === "th" ? "en" : "th";

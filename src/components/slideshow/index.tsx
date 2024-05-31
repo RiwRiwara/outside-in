@@ -12,7 +12,8 @@ import DesktopImage3 from "@/../assets/images/home/background/sectionfirst/deskt
 
 const Slideshow: FC = () => {
   const mobileImageLists = [MobileImage1, MobileImage2, MobileImage3];
-  const desktopImageLists = [DesktopImage1, DesktopImage2, DesktopImage3];
+  // const desktopImageLists = [DesktopImage1, DesktopImage2, DesktopImage3];
+  const desktopImageLists = [DesktopImage1];
   const settings = {
     dots: false,
     infinite: true,

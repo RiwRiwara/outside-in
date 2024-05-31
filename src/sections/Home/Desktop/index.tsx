@@ -113,7 +113,7 @@ export const Desktop_HomeSectionSecond: FC<DesktopSectionFirstProps> = ({
               }}
             ></p>
             <p
-              className={`text-[18px] font-[400] mt-6 ${
+              className={`text-[18px] font-[400] mt-6 text-black/60 ${
                 lang === "en" ? "ttfors" : "fcsubject_regular"
               }`}
             >
@@ -162,7 +162,11 @@ export const Desktop_HomeSectionThird: FC<DesktopSectionFirstProps> = ({
               lang === "en" ? "fcsubject_bold" : "fcsubject_bold"
             }`}
           >
-            {page.home.section3.desktop.title2}
+            {page.home.section3.desktop.title2_first}
+            <span style={{ color: "#4ABB90" }}>
+              {page.home.section3.desktop.title2_mid}
+            </span>
+            {page.home.section3.desktop.title2_second}
           </h1>
           <p
             dangerouslySetInnerHTML={{
@@ -183,65 +187,67 @@ export const Desktop_HomeSectionFourth: FC<DesktopSectionFirstProps> = ({
   lang,
 }) => {
   return (
-    <section className="relative min-h-screen h-auto w-[65%] m-auto pb-20 pt-32">
-      <div>
-        <h2
-          className={`text-black text-[18px] font-[500] ${
-            lang === "en" ? "ttfors" : "fcsubject_regular"
-          }`}
-        >
-          {page.home.section4.desktop.title1}
-        </h2>
-        <h1
-          className={`text-black text-[58px] font-[600] ${
-            lang === "en" ? "kiona_bold" : "fcsubject_bold"
-          } uppercase`}
-        >
-          {page.home.section4.desktop.title2}
-        </h1>
-      </div>
-      <div className="mt-12 flex justify-center items-center gap-14 flex-wrap">
-        {blogLists.map((item, idx) => (
-          <div
-            key={idx}
-            className="2xl:w-[30%] xl:w-[40%] lg:w-[45%] md:w-[80%] w-[100%]"
+    <section className="bg-[#383838]">
+      <div className="relative min-h-screen h-auto w-[70%] m-auto pb-20 pt-32 ">
+        <div>
+          <h2
+            className={`text-white text-[18px] font-[500] ${
+              lang === "en" ? "ttfors" : "fcsubject_regular"
+            }`}
           >
-            <div>
-              <Image
-                src={item.image}
-                className="w-full h-full object-cover bg-cover"
-                width={500}
-                height={500}
-                priority
-                alt="bannerBlog"
-              />
+            {page.home.section4.desktop.title1}
+          </h2>
+          <h1
+            className={`text-white text-[58px] font-[600] ${
+              lang === "en" ? "kiona_bold" : "fcsubject_bold"
+            } uppercase`}
+          >
+            {page.home.section4.desktop.title2}
+          </h1>
+        </div>
+        <div className="mt-12 flex justify-center flex-row items-center gap-14 flex-wrap">
+          {blogLists.map((item, idx) => (
+            <div
+              key={idx}
+              className="2xl:w-[30%] xl:w-[40%] lg:w-[45%] md:w-[80%] w-[100%]"
+            >
+              <div>
+                <Image
+                  src={item.image}
+                  className="w-full h-full object-cover bg-cover"
+                  width={500}
+                  height={500}
+                  priority
+                  alt="bannerBlog"
+                />
+              </div>
+              <div className="mt-14">
+                <h2
+                  className={`text-[18px] text-white text-[500] ${
+                    lang === "en" ? "kiona_bold" : "kiona_bold"
+                  }`}
+                >
+                  {item.title}
+                </h2>
+                <p
+                  className={`text-[16px] text-white text-[500] mt-3 ${
+                    lang === "en" ? "ttfors" : "fcsubject_regular"
+                  }`}
+                >
+                  {item.description}
+                </p>
+              </div>
+              <div className="mt-8">
+                <button
+                  type="button"
+                  className="text-white bg-[#4ABB90] py-2 px-12 text-[14px] rounded"
+                >
+                  Read more
+                </button>
+              </div>
             </div>
-            <div className="mt-14">
-              <h2
-                className={`text-[18px] text-black text-[500] ${
-                  lang === "en" ? "kiona_bold" : "kiona_bold"
-                }`}
-              >
-                {item.title}
-              </h2>
-              <p
-                className={`text-[16px] text-black text-[500] mt-3 ${
-                  lang === "en" ? "ttfors" : "fcsubject_regular"
-                }`}
-              >
-                {item.description}
-              </p>
-            </div>
-            <div className="mt-8">
-              <button
-                type="button"
-                className="text-white bg-black py-2 px-12 text-[14px]"
-              >
-                Read more
-              </button>
-            </div>
-          </div>
-        ))}
+          ))}
+        </div>
       </div>
     </section>
   );
