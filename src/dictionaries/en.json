@@ -1,0 +1,529 @@
+{
+  "page": {
+    "home": {
+      "section1": {
+        "desktop": {
+          "title": "WE STAND AS THE FACADE SPECIALISTS",
+          "sub_title": "We are a team of experts in facade design and construction, including facade designers, engineering teams, and installation teams"
+        },
+        "mobile": {
+          "title": "DISCOVER INSPIRING IDEAS<br/>FOR YOUR NEW FACADE",
+          "sub_title": "Elevate the appeal of your building with our trusted design and construction services"
+        }
+      },
+      "section2": {
+        "desktop": {
+          "title": "WHAT IS FACADE DESIGN?",
+          "description": {
+            "para1": "The Purpose and Potential of Facade Design.",
+            "para2": "Facade design involves either creating new or renovating existing building facades to enhance their appearance and align with the building's purpose. Facade design is not just about choosing patterns, colors, or materials; it can also be tailored to reflect and promote a business's image, the identity of the residents, or integrate with new innovations and technologies to maximize the building's efficiency.",
+            "para3": "Designing facades that prioritize material selection and adherence to building codes is crucial for achieving high-quality and safe buildings. Engaging an experienced team of designers, engineers, and installers is essential for efficient project execution and enhanced safety."
+          }
+        },
+        "mobile": {
+          "title": "innovative<br/>and sustainable<br/>facade design solutions.",
+          "description": {
+            "para1": "Our design philosophy is rooted in architecture, emphasizing creativity, timelessness, and sustainability. ",
+            "para2": "Our team of experts provides customized and affordable designs that seamlessly integrate with the surroundings. We specialize in a diverse range of facade solutions to meet all your requirements"
+          }
+        }
+      },
+      "section3": {
+        "desktop": {
+          "title1": "The complicated of facade design demands a high level of details.",
+          "title2": "It is necessary to have a 'specialist' to oversee the project.",
+          "description": "To build safe and high-quality buildings,<br/>rely on a specialized team of experts in facade design.<br/>Choosing the right materials and adhering to building codes are key factors for efficiency and safety in project delivery"
+        }
+      },
+      "section4": {
+        "desktop": {
+          "title1": "articles by Outside In's team",
+          "title2": "Blog post"
+        }
+      }
+    },
+    "ourteam": {
+      "section1": {
+        "desktop": {
+          "title": "Innovation in design, excellence in craftsmanship",
+          "description": " We at Facade Architecture Design Company believe in innovation in design and excellence in craftsmanship. Our team of experienced architects, engineers and craftsmen are dedicated to delivering exceptional facade design solutions that are both aesthetically pleasing and structurally sound."
+        },
+        "mobile": {
+          "title": "we're passionate<br/>about making a difference",
+          "description1": "At our company, we're passionate about making a difference and transforming the exterior of buildings with innovative Façade technology.<br/>Our talented team of design and craftsmanship experts work hardto create beautiful, structurally resilient windows that not only look good but also stand the test of time.",
+          "description2": "We're committed to being leaders in Façade technology development and providing unique experiences for our clients every time. We believe that the Façade is not just an essential part of construction but also an art that reflects beauty and modernity. Our skilled team handles every step of the process, ensuring that we deliver contemporary, durable, and stunning results."
+        }
+      },
+      "section2": {
+        "desktop": {
+          "para1": "At Outside In, we&apos;re not just passionate about creating stunning facades; we&apos;re driven by a deep commitment to innovation, quality,and the people we serve. Our journey began with a simple yet profound idea: to tranform the ordinary into the extraordinary.",
+          "para2": "Our team, with a diverse range of talents and expertise, has one common goal — to set new standards in facade design. We’re not just builders; we’re architects of dreams, sculpting structures that tell stories and leave lasting impressions.",
+          "para3": "Thank you for considering Outside In. We look forward to creating the extraordinary together.",
+          "name": "CHAYAPHOL SUKONTHANIT",
+          "position": "CEO & Founder of Outside In"
+        },
+        "mobile": {
+          "title1": "FACADE DESIGNER",
+          "description1": "Putting the Customer First: Our Belief in Creative Design At the core of our creative process is a deep understanding of our customers. We believe that in order to create designs that truly reflect their identity, we must first have a thorough understanding of their needs and preferences.",
+          "title2": "STRUCTURAL DESIGN",
+          "description2": "Highlighting Our Excellent Team of Skilled Engineers in Façade Construction Our team consists of highly skilled and experienced engineers specialized in the field of façade construction.",
+          "title3": "INSTALLATION AND CONSTRUCTION",
+          "description3": "High-Quality Facade Construction Services by Skilled Experts Our team of installation professionals is dedicated to providing you with top-notch facade construction services. We take pride in our unparalleled commitment to professionalism and quality, ensuring that your project is in good hands."
+        }
+      },
+      "section3": {
+        "desktop": {
+          "title": "OUR EXPERT TEAM",
+          "pic1": "FACADE DESIGNER",
+          "pic2": "STRUTURAL DESIGN",
+          "pic3": "INSTALLATION AND CONSTRUCTION"
+        },
+        "mobile": {
+          "para1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At Outside In, we&apos;re not just passionate about creating stunning facades; we&apos;re driven by a deep commitment to innovation, quality, and the people we serve. Our journey began with a simple yet profound idea: to transform the ordinary into the extraordinary.",
+          "para2": "Our team, with a diverse range of talents and expertise, has one common goal — to set new standards in facade design. We&apos;re not just builders; we’re architects of dreams, sculpting structures that tell stories and leave lasting impressions.",
+          "para3": "Thank you for considering Outside In. We look forward to creating the extraordinary together.",
+          "name": "CHAYAPHOL   SUKONTHANIT",
+          "position": "CEO & Founder of Outside In"
+        }
+      },
+      "section4": {
+        "desktop": {
+          "title1": "FACADE DESIGNER",
+          "description1": "Putting the Customer First: Our Belief in Creative Design At the core of our creative process is a deep understanding of our customers. We believe that in order to create designs that truly reflect their identity, we must first have a thorough understanding of their needs and preferences.",
+          "title2": "STRUCTURAL DESIGN",
+          "description2": "Highlighting Our Excellent Team of Skilled Engineers in Façade Construction Our team consists of highly skilled and experienced engineers specialized in the field of façade construction.",
+          "title3": "INSTALLATION AND CONSTRUCTION",
+          "description3": "High-Quality Facade Construction Services by Skilled Experts Our team of installation professionals is dedicated to providing you with top-notch facade construction services. We take pride in our unparalleled commitment to professionalism and quality, ensuring that your project is in good hands."
+        }
+      }
+    },
+    "services": {
+      "section1": {
+        "desktop": {
+          "title": " WITH OUR EXPERIENCE,<br/>WE CAN CREATE FACADE IN ANY DESIGN YOU DESIRE",
+          "description1": "With our experienced team and deep understanding, we can professionally meet your needs. Our expertise extends to creating various types of facades. Here is just a glimpse of the facade types we specialize in",
+          "description2": "To make it easier for you to find the facade patterns and design directions you desire, we have introduced efficient and popular facade design templates for your consideration"
+        }
+      },
+      "section2": {
+        "desktop": {
+          "louver": {
+            "name": "LOUVER",
+            "title1": "รูปแบบตีระแนงและบานเกล็ด",
+            "title2": "Reduce glare and improve ventilation.",
+            "title3": "Enhance privacy",
+            "description1": " Buildings facing excessive sunlight on certain sides, especially in activity areas,can be addressed with louvers that help diminish the light while allowing for effective air circulation",
+            "description2": "In cases where the windows of a building directly face another building, allowing mutual visibility, louver patterns can act as a visual barrier, reducing visibility. However, the interior space still feels open as it is not completely enclosed.",
+            "items": {
+              "first": {
+                "title": "Decorative Louver",
+                "description": "Utilize intricate patterns or designs to serve as architectural focal points."
+              },
+              "second": {
+                "title": "Shading Louver",
+                "description": "Help reduce heat from incoming sunlight into the building and enhance privacy."
+              },
+              "third": {
+                "title": "Timber Louver",
+                "description": "Add warmth and a natural feel to the building with various materials such as wood-patterned aluminum or metal sheets."
+              }
+            }
+          },
+          "preforated": {
+            "name": "PERFORATED",
+            "title1": "รูปแบบหุ้มอาคารด้วยวัสดุช่องฉลุลาย",
+            "title2": "Control the amount of light entering the building.",
+            "title3": "Enhance the aesthetic dimensions both externally and internally.",
+            "description1": "The patterns and sizes of perforations help determine the quantity and area of light that can enter the building. They also contribute to maintaining privacy without creating a sense of confinement, unlike solid wall structures.",
+            "description2": "With shadows created inside the building through perforated patterns, it adds interest to the space and transforms patterns, providing a different experience throughout the day. The perforation patterns can be designed to reflect the identity of the business and even the culture surrounding the building. They can also be extended to create kinetic facades or parametric designs.",
+            "items": {
+              "first": {
+                "title": "Custom perforation",
+                "description": "It is possible to design perforated patterns to suit the style of the building and achieve the desired amount of light entering the building."
+              },
+              "second": {
+                "title": "Enhance at night",
+                "description": "Designing and installing lights with perforated patterns further enhances the building's visual appeal, inviting gazes upwards during the evening hours."
+              },
+              "third": {
+                "title": "Light and Shadow",
+                "description": "In addition to enhancing the exterior beauty of the building, the interior shadow created by the perforated patterns also adds dimension and experience to the indoor space."
+              },
+              "forth": {
+                "title": "Reflect Your Identity",
+                "description": "Utilizing perforated patterns designed to harmonize with the building helps reflect the identity of the owner or business, extending to showcase the culture and identity of the building's location."
+              }
+            }
+          },
+          "panelcladding": {
+            "name": "PANEL CLADDING",
+            "title1": "รูปแบบหุ้มอาคารด้วยแผ่นวัสดุคุณสมบัติสูง",
+            "title2": "variety of color options",
+            "title3": "Durable and weather-resistant ",
+            "description1": "Cladding often utilizes high-quality Composite materials with a variety of color options and surface finishes, including textured, matte, light-reflective, or gradient choices. This caters to buildings seeking a unique identity.",
+            "description2": "Composite materials exhibit excellent resistance to various weather conditions. They are corrosion-resistant, provide heat dissipation, control building humidity, and have a lifespan of 10 years or more.",
+            "items": {
+              "first": {
+                "title": "Metal style cladding",
+                "description": "The metallic sheet surface style helps give the building a modern look. I recommend materials in gold, silver, metallic matte, or brushed finish."
+              },
+              "second": {
+                "title": "Mosaic arranged cladding",
+                "description": "With a wide range of material color shades to choose from, if you want the building to stand out and be memorable, you can blend colors similar to a mosaic artwork."
+              },
+              "third": {
+                "title": "Wood & Stone style cladding",
+                "description": "Blend materials that mimic natural elements, such as stone, wood, and brick, to enhance the warmth and create a relaxed atmosphere for the building."
+              },
+              "forth": {
+                "title": "Geometric style cladding",
+                "description": "Mixed materials can be shaped into various geometric forms, arranged to cover the building's facade, creating a sophisticated and visually appealing image that captures attention."
+              }
+            }
+          },
+          "innovative": {
+            "name": "GRC & FABRIC",
+            "name2": "INNOVATIVE & ADAPTIVE",
+            "title1": "รูปแบบทางเลือกใหม่ทางวัสดุ และเทคนิค",
+            "title2": "GRC & Textile",
+            "title3": "Parametric & Kinetic",
+            "description1": "Both new materials have emerged to break the limitations in design and the requirements of building owners. GRC involves mixing cement paste with glass fibers and then molding it into various shapes as needed. Textile refers to fabric used for three-dimensional shaping on frameworks, made from synthetic fibers coated with fire-resistant substances.",
+            "description2": "Parametric is a design approach that extends from cladding by arranging material sheets to create intriguing geometric shapes. When combined with the mixing of various materials, it generates new dimensions of beauty and enhances the building's identity. Kinetic is a design concept that allows facades to be adjustable or movable, focusing on improving efficiency in glare reduction, ventilation, humidity control, and the utilization of building space.",
+            "items": {
+              "first": {
+                "title": "GRC",
+                "description": "Glass Fiber Reinforced Concrete materials can be molded into various shapes and sizes and are also the least likely to catch fire."
+              },
+              "second": {
+                "title": "Textile Fabric",
+                "description": "Another option is a material that can be molded into three-dimensional shapes, lightweight, and of high quality. Currently, there is ongoing development to improve the quality of fabric materials."
+              },
+              "third": {
+                "title": "Parametric",
+                "description": "Facade patterns that utilize geometric shapes, including the use of blended materials, create new dimensions and aesthetics for facade works."
+              },
+              "forth": {
+                "title": "Kinetic",
+                "description": "Facade patterns that incorporate mechanisms for movement, with a focus on enhancing efficiency in protecting buildings from various environmental conditions."
+              }
+            }
+          }
+        },
+        "mobile": {
+          "title": "bespoke designs <br/> tailored to your unique <br/> requirements",
+          "description": "Our team of experienced professionals possesses the ability to create modern and customized facade designs that meet all of your needs. No matter what type or style of building, we are experts in delivering beautiful and unique projects that will impress you",
+          "botton": "รูปแบบงานฟาซาด",
+          "title2": "FIND YOUR DREAM FACADE",
+          "description2": "Our expertise extends to creating various types of facades. Here is just a glimpse some of the facade types we specialize in"
+        }
+      },
+      "components": {
+        "mobile": {
+          "louver": {
+            "title1": "รูปแบบตีระแนง และบานเกล็ด",
+            "title2": "Reduce glare and improve ventilation.",
+            "title3": "Enhance privacy",
+            "description1": "Buildings facing excessive sunlight on certain sides, especially in activity areas,can be addressed with louvers that help diminish the light while allowing for effective air circulation",
+            "description2": "In cases where the windows of a building directly face another building, allowing mutual visibility, louver patterns can act as a visual barrier, reducing visibility. However, the interior space still feels open as it is not completely enclosed.",
+            "items": {
+              "first": {
+                "title": "Decorative Louver",
+                "description": "Utilize intricate patterns or designs to serve as architectural focal points."
+              },
+              "second": {
+                "title": "Shading Louver",
+                "description": "Help reduce heat from incoming sunlight into the building and enhance privacy."
+              },
+              "third": {
+                "title": "Timber Louver",
+                "description": "Add warmth and a natural feel to the building with various materials such as wood-patterned aluminum or metal sheets."
+              }
+            }
+          },
+          "preforated": {
+            "title1": "รูปแบบหุ้มอาคารด้วยการเรียงวัสดุที่มีลวดลายฉลุ",
+            "title2": "Control the amount of light entering the building.",
+            "title3": "Enhance the aesthetic dimensions both externally and internally.",
+            "description1": "The patterns and sizes of perforations help determine the quantity and area of light that can enter the building. They also contribute to maintaining privacy without creating a sense of confinement, unlike solid wall structures.",
+            "description2": "With shadows created inside the building through perforated patterns, it adds interest to thespace and transforms patterns, providing a different experience throughout the day. The perforation patterns can be designed to reflect the identity of the business and even the culture surrounding the building. They can also be extended to create kinetic facades or parametric designs.",
+            "items": {
+              "first": {
+                "title": "Custom perforation",
+                "description": "It is possible to design perforated patterns to suit the style of the building and achieve the desired amount of light entering the building."
+              },
+              "second": {
+                "title": "Enhance at night",
+                "description": "Designing and installing lights with perforated patterns further enhances the building's visual appeal, inviting gazes upwards during the evening hours."
+              },
+              "third": {
+                "title": "Light and Shadow",
+                "description": "In addition to enhancing the exterior beauty of the building, the interior shadow created by the perforated patterns also adds dimension and experience to the indoor space."
+              },
+              "forth": {
+                "title": "Reflect Your Identity",
+                "description": "Utilizing perforated patterns designed to harmonize with the building helps reflect the identity of the owner or business, extending to showcase the culture and identity of the building's location."
+              }
+            }
+          },
+          "panelcladding": {
+            "title1": "รูปแบบหุ้มอาคารด้วยแผ่นวัสดุคุณสมบัติสูง",
+            "title2": "variety of color options",
+            "title3": "Durable and weather-resistant ",
+            "description1": "Cladding often utilizes high-quality Composite materials with a variety of color options and surface finishes, including textured, matte, light-reflective, or gradient choices. This caters to buildings seeking a unique identity.",
+            "description2": "Composite materials exhibit excellent resistance to various weather conditions. They are corrosion-resistant, provide heat dissipation, control building humidity, and have a lifespan of 10 years or more.",
+            "items": {
+              "first": {
+                "title": "Metal style cladding",
+                "description": "The metallic sheet surface style helps give the building a modern look. I recommend materials in gold, silver, metallic matte, or brushed finish."
+              },
+              "second": {
+                "title": "Mosaic arranged cladding",
+                "description": "With a wide range of material color shades to choose from, if you want the building to stand out and be memorable, you can blend colors similar to a mosaic artwork."
+              },
+              "third": {
+                "title": "Wood & Stone style cladding",
+                "description": "Blend materials that mimic natural elements, such as stone, wood, and brick, to enhance the warmth and create a relaxed atmosphere for the building."
+              },
+              "forth": {
+                "title": "Geometric style cladding",
+                "description": "Mixed materials can be shaped into various geometric forms, arranged to cover the building's facade, creating a sophisticated and visually appealing image that captures attention."
+              }
+            }
+          },
+          "innovative": {
+            "title1": "รูปแบบทางเลือกใหม่ทางวัสดุ และเทคนิค",
+            "title2": "GRC & Textile",
+            "title3": "Parametric & Kinetic",
+            "description1": "Both new materials have emerged to break the limitations in design and the requirements of building owners. GRC involves mixing cement paste with glass fibers and then molding it into various shapes as needed. Textile refers to fabric used for three-dimensional shaping on frameworks, made from synthetic fibers coated with fire-resistant substances.",
+            "description2": "Parametric is a design approach that extends from cladding by arranging material sheets to create intriguing geometric shapes. When combined with the mixing of various materials, it generates new dimensions of beauty and enhances the building's identity. <br/> Kinetic is a design concept that allows facades to be adjustable or movable, focusing on improving efficiency in glare reduction, ventilation, humidity control, and the utilization of building space.",
+            "items": {
+              "first": {
+                "title": "GRC",
+                "description": "Glass Fiber Reinforced Concrete materials can be molded into various shapes and sizes and are also the least likely to catch fire."
+              },
+              "second": {
+                "title": "Textile Fabric",
+                "description": "Another option is a material that can be molded into three-dimensional shapes, lightweight, and of high quality. Currently, there is ongoing development to improve the quality of fabric materials."
+              },
+              "third": {
+                "title": "Parametric",
+                "description": "Facade patterns that utilize geometric shapes, including the use of blended materials, create new dimensions and aesthetics for facade works."
+              },
+              "forth": {
+                "title": "Kinetic",
+                "description": "Facade patterns that incorporate mechanisms for movement, with a focus on enhancing efficiency in protecting buildings from various environmental conditions."
+              }
+            }
+          }
+        }
+      }
+    },
+    "career": {
+      "section1": {
+        "desktop": {
+          "header": "WORK WITH US",
+          "description": "We are an organization that believes in working together <br/>efficiently to create innovative approaches and solutions that address various challenges for our clients.<br/>This includes the use of new innovations in facade<br/>construction to contribute to the energy sustainability of our country.",
+          "job": "Job openings",
+          "position": "Facade Designer",
+          "subposition": "1 position",
+          "recomment": "If interested, you can send your resume and portfolio to<br/>hr@outsidein.co.th"
+        },
+        "mobile": {
+          "header": "WORK WITH US",
+          "title": "ร่วมงานกับเรา  Outside In",
+          "description": "We are an organization that believes in working together efficiently to create innovative approaches and solutions that address various challenges for our clients. This includes the use of new innovations in facade construction to contribute to the energy sustainability of our country.",
+          "job": "Job openings",
+          "position": "Facade Designer",
+          "subposition": "1 position",
+          "recomment": "If interested, you can send your resume and portfolio to<br/>hr@outsidein.co.th"
+        }
+      }
+    },
+    "contact": {
+      "section1": {
+        "desktop": {
+          "header": "ร่วมงานกับเรา Outside In"
+        },
+        "mobile": {
+          "title": "CONTRACT US",
+          "description": "To start a conversation about your project or inquire about preliminary pricing"
+        }
+      }
+    },
+    "footer": {
+      "section1": {
+        "mobile": {
+          "title": "To start a conversation about your project or inquire about preliminary pricing, please fill in the following details along with your preferred contact method for a callback",
+          "para1": "CONNECT WITH US",
+          "address": "48 Soi Ramkhamhaeng 24,<br/>Hua Mak, Bang Kapi District, Bangkok 10240",
+          "tel": "Tel. : 083-221-1107",
+          "mail": "Email : sales@outsidein.co.th"
+        }
+      }
+    },
+    "contactfrom": {
+      "section1": {
+        "desktop": {
+          "description": "To start a conversation about your project or inquire<br/> about preliminary pricing, please fill in the following details along<br/> with your preferred contact method for a callback",
+          "description2": ""
+        }
+      }
+    },
+    "blog": {
+      "section1": {
+        "mobile": {
+          "title": "BLOG POST",
+          "description": "articles by Outside In's team of experts in facade<br/>design and construction, interesting facade project showcases,<br/>and the latest innovations and trends in facade."
+        },
+        "desktop": {
+          "description": "รวมบทความต่างๆเกี่ยวกับฟาซาด",
+          "title": "Blog"
+        }
+      }
+    },
+    "policy": {
+      "label": "Privacy policy",
+      "para1": {
+        "title": "Privacy Policy for Customer",
+        "description": "Outside In Co.,Ltd recognizes the importance of the protection of your personal data. This Privacy Policy explains our practices regarding the collection, use or disclosure of personal data including other rights of the Data Subjects in accordance with the Personal Data Protection Laws."
+      },
+      "para2": {
+        "title": "Collection of Personal Data",
+        "description": "We will collect your personal data that receive directly from you as following:",
+        "lists": {
+          "1": "telephone",
+          "2": "email address",
+          "3": "Facebook Login",
+          "4": "Google Login"
+        }
+      },
+      "para3": {
+        "title": "Types of Data Collected",
+        "descriptions": {
+          "1": "<span class='font-[700]'>Personal data</span> such as name, surname, age, date of birth, nationality, identification card, passport, etc.",
+          "2": "<span class='font-[700]'>Contact information</span> such as address, telephone number, e-mail address, etc.",
+          "3": "<span class='font-[700]'>Account details</span> such as username, password, transactions history, etc.",
+          "4": "<span class='font-[700]'>Proof of identity</span> such as copy of identification card, copy of passport, etc.",
+          "5": "<span class='font-[700]'>Transaction and Financial information</span> such as purchase history, credit card details, bank account, etc.",
+          "6": "<span class='font-[700]'>Technical data</span> such as IP address, Cookie ID, Activity Log, etc.",
+          "7": "<span class='font-[700]'>Other</span> such as photo, video, and other information that is considered personal data under the Personal Data Protection Laws."
+        }
+      },
+      "para4": {
+        "title": "Children",
+        "description": "If you are under the age of 20 or having legal restrictions, we may collect use or disclose your personal data. We require your parents or guardian to be aware and provide consent to us or allowed by applicable laws. If we become aware that we have collected personal data from children without verification of parental consent, we take steps to remove that information from our servers."
+      },
+      "para5": {
+        "title": "Storage of Data",
+        "descriptions": {
+          "1": "We store your personal data as hard copy and soft copy",
+          "2": "We store your personal data by using the following systems:"
+        },
+        "lists": {
+          "1": "Our server in Thailand",
+          "2": "Third-party server service providers outside of Thailand"
+        }
+      },
+      "para6": {
+        "title": "Use of Data",
+        "description": "We use the collected data for various purposes:",
+        "lists": {
+          "1": "To create and manage accounts",
+          "2": "To provide products or services",
+          "3": "To improve products, services, or user experiences",
+          "4": "To share and manage information within organization",
+          "5": "To conduct marketing activities and promotions",
+          "6": "To provide after-sales services",
+          "7": "To gather user's feedback",
+          "8": "To process payments of products or services",
+          "9": "To comply with our Terms and Conditions",
+          "10": "To comply with laws, rules, and regulatory authorities"
+        }
+      },
+      "para7": {
+        "title": "Disclosure of Personal Data",
+        "description": "We may disclose your personal data to the following parties in certain circumstances:",
+        "sub_title": {
+          "1": {
+            "title": "Organization",
+            "description": "We may disclose your personal data within our organization to provide and develop our products or services. We may combine information internally across the different products or services covered by this Privacy Policy to help us be more relevant and useful to you and others."
+          },
+          "2": {
+            "title": "Business Partners",
+            "description": "In relation with our business partners, we may disclose certain personal data to them in order to coordinate and provide our products or services to you and provide necessary information about the availability of our products or services."
+          },
+          "3": {
+            "title": "Cross-Border Data Transfer",
+            "description": "We may disclose or transfer your personal data to third parties, organizations or servers located in foreign countries. We will take steps and measures to ensure that your personal data is securely transferred, and the receiving parties have an appropriate level of personal data protection standard or as allowed by laws."
+          }
+        }
+      },
+      "para8": {
+        "title": "Data Retention",
+        "description": "We will retain your personal data for as long as necessary during the period you are a customer or under relationship with us, or for as long as necessary in connection with the purposes set out in this Privacy Policy, unless law requires or permits a longer retention period. We will erase, destroy or anonymize your personal data when it is no longer necessary or when the period lapses."
+      },
+      "para9": {
+        "title": "Data Subject Rights",
+        "descriptions": {
+          "1": "Subject to the Personal Data Protection Laws thereof, you may exercise any of these rights in the following:",
+          "2": "<span class='font-[700]'>Withdrawal of consent:</span> If you have given consent to us to collect, use or disclose your personal data whether before or after the effective date of the Personal Data Protection Laws, you have the right to withdraw such consent at any time throughout the period your personal data available to us, unless it is restricted by laws or you are still under beneficial contract.",
+          "3": "<span class='font-[700]'>Data access:</span> You have the right to access your personal data that is under our responsibility; to request us to make a copy of such data for you; and to request us to reveal as to how we obtain your personal data.",
+          "4": "<span class='font-[700]'>Data portability:</span> You have the right to obtain your personal data if we organize such personal data in automatic machine-readable or usable format and can be processed or disclosed by automatic means; to request us to send or transfer the personal data in such format directly to other data controllers if doable by automatic means; and to request to obtain the personal data in such format sent or transferred by us directly to other data controller unless not technically feasible.",
+          "5": "<span class='font-[700]'>Objection:</span> You have the right to object to collection, use or disclosure of your personal data at any time if such doing is conducted for legitimate interests of us, corporation or individual which is within your reasonable expectation; or for carrying out public tasks.",
+          "6": "<span class='font-[700]'>Data erasure or destruction:</span>  You have the right to request us to erase, destroy or anonymize your personal data if you believe that the collection, use or disclosure of your personal data is against relevant laws; or retention of the data by us is no longer necessary in connection with related purposes under this Privacy Policy; or when you request to withdraw your consent or to object to the processing as earlier described.",
+          "7": "<span class='font-[700]'>Suspension:</span> You have the right to request us to suspend processing your personal data during the period where we examine your rectification or objection request; or when it is no longer necessary and we must erase or destroy your personal data pursuant to relevant laws but you instead request us to suspend the processing.",
+          "8": "<span class='font-[700]'>Rectification:</span> You have the right to rectify your personal data to be updated, complete and not misleading.",
+          "9": "<span class='font-[700]'>Complaint lodging:</span> You have the right to complain to competent authorities pursuant to relevant laws if you believe that the collection, use or disclosure of your personal data is violating or not in compliance with relevant laws.",
+          "10": "You can exercise these rights as the Data Subject by contacting our Data Protection Officer as mentioned below. We will notify the result of your request within 30 days upon receipt of such request. If we den"
+        }
+      },
+      "para10": {
+        "title": "Cookies",
+        "description": "To enrich and perfect your experience, we use cookies or similar technologies to display personalized content, appropriate advertising and store your preferences on your computer. We use cookies to identify and track visitors, their usage of our website and their website access preferences. If you do not wish to have cookies placed on your computer you should set their browsers to refuse cookies before using our website."
+      },
+      "para11": {
+        "title": "Data Security",
+        "description": "We endeavor to protect your personal data by establishing security measures in accordance with the principles of confidentiality, integrity, and availability to prevent loss, unauthorized or unlawful access, destruction, use, alteration, or disclosure including administrative safeguard, technical safeguard, physical safeguard and access controls."
+      },
+      "para12": {
+        "title": "Data Breach Notification",
+        "description": "We will notify the Office of the Personal Data Protection Committee without delay and, where feasible, within 72 hours after having become aware of it, unless such personal data breach is unlikely to result in a risk to the rights and freedoms of you. If the personal data breach is likely to result in a high risk to the rights and freedoms of you, we will also notify the personal data breach and the remedial measures to you without delay through our website, SMS, email address, telephone or registered mail (if applicable)."
+      },
+      "para13": {
+        "title": "Changes to this Privacy Policy",
+        "description": "We may change this Privacy Policy from time to time. Any changes of this Privacy Policy, we encourage you to frequently check on our website <br/> This Privacy Policy was last updated and effective on 12th January 2024"
+      },
+      "para14": {
+        "title": "Links to Other Sites",
+        "description": "The purpose of this Privacy Policy is to offer products or services and use of our website. Any websites from other domains found on our site is subject to their privacy policy which is not related to us."
+      },
+      "para15": {
+        "title": "Contact Information",
+        "description": "If you have any questions about this Privacy Policy or would like to exercise your rights, you can contact us by using the following details:"
+      },
+      "para16": {
+        "guard": {
+          "1": {
+            "title": "Data Controller",
+            "descriptions": {
+              "1": "Outside In Co.,Ltd",
+              "2": "48 Soi Ramkhamhaeng24 , Hua Mak, Bang Kapi, Bangkok, 10250",
+              "3": "marketing@outsidein.co.th",
+              "4": "www.outsidein.co.th",
+              "5": "083-221-1107"
+            }
+          },
+          "2": {
+            "title": "Data Protection Officer",
+            "descriptions": {
+              "1": "Outside In team",
+              "2": "48 Soi Ramkhamhaeng24 , Hua Mak, Bang Kapi, Bangkok, 10250",
+              "3": "marketing@outsidein.co.th",
+              "4": "083-211-1107"
+            }
+          }
+        }
+      }
+    }
+  }
+}
