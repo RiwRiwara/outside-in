@@ -18,7 +18,7 @@ export const Desktop_CareerSectionFirst: FC<DesktopSectionFirstProps> = ({page, 
         <Image
           className="w-full h-full object-cover"
           src={careerBg}
-          width={1920}
+          width={1920} 
           height={500}
           alt="bg"
         />

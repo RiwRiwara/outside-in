@@ -14,7 +14,7 @@ export const Desktop_OurteamSectionFirst: FC<DesktopSectionFirstProps> = ({
 }) => {
   return (
     <section className="relative w-full min-h-screen h-auto">
-      <div className="desktop-ourteamSectionFirst-bg"></div>
+      <div className="desktop-ourteamSectionFirst-bg "></div>
       <div className="absolute top-0 left-0 2xl:w-[50%] xl:w-[55%] w-[80%] h-full flex justify-center items-center">
         <div className="p-32">
           <h1
@@ -44,8 +44,9 @@ export const Desktop_OurteamSectionSecond: FC<DesktopSectionFirstProps> = ({
   lang,
 }) => {
   return (
-    <section className="relative w-full min-h-screen h-auto">
+    <section className="relative w-full min-h-screen h-auto bg-neutral-800">
       <div className="w-full min-h-screen h-full px-4 2xl:py-0 xl:py-0 py-20 2xl:flex xl:flex block justify-center flex-wrap items-center gap-6">
+       
         <div className="2xl:w-[50%] xl:w-[50%] w-full h-full">
           <div className="2xl:w-[75%] xl:w-[75%] w-[50%] m-auto">
             <Image
@@ -61,21 +62,21 @@ export const Desktop_OurteamSectionSecond: FC<DesktopSectionFirstProps> = ({
         <div className="2xl:w-[32%] xl:w-[32%] w-[80%] 2xl:m-0 xl:m-0 m-auto mt-10 h-full">
           <div>
             <p
-              className={`text-[#383F5F] font-[400] text-black/55 ${
+              className={`text-white font-[400] text-black/55 mt-3 ${
                 lang === "en" ? "ttfors 2xl:text-[20px] xl:text-[18px] text-[20px]" : "fcsubject_regular text-[20px]"
               }`}
             >
               {page.ourteam.section2.desktop.para1}
             </p>
             <p
-              className={`text-[#383F5F] font-[400] text-black/55 mt-12 ${
+              className={`text-white font-[400] text-black/55 mt-12 ${
                 lang === "en" ? "ttfors 2xl:text-[20px] xl:text-[18px] text-[20px]" : "fcsubject_regular text-[20px]"
               }`}
             >
               {page.ourteam.section2.desktop.para2}
             </p>
             <p
-              className={`text-[#383F5F]  font-[400] text-black/55 mt-12 ${
+              className={`text-white  font-[400] text-black/55 mt-12 ${
                 lang === "en" ? "ttfors 2xl:text-[20px] xl:text-[18px] text-[20px]" : "fcsubject_regular text-[20px]"
               }`}
             >
@@ -113,10 +114,10 @@ export const Desktop_OurteamSectionThird: FC<DesktopSectionFirstProps> = ({
   lang,
 }) => {
   return (
-    <section className="relative w-full h-auto">
+    <section className="relative w-full h-auto bg-neutral-800">
       <div className="py-32 px-10">
         <h1
-          className={`text-[#545454] text-[60px] font-[600] text-center ${
+          className={`text-white text-[60px] font-[600] text-center ${
             lang === "en" ? "fcsubject_bold" : "fcsubject_bold"
           }`}
         >
@@ -127,7 +128,7 @@ export const Desktop_OurteamSectionThird: FC<DesktopSectionFirstProps> = ({
             <Image width={550} height={550} src={Team1} alt="team1" />
             <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center">
               <p
-                className={`text-white text-[24px] font-[600] text-center ${
+                className={`text-[#4ade80]  text-[24px] font-[600] text-center ${
                   lang === "en" ? "ttfors" : "ttfors"
                 }`}
               >
@@ -139,7 +140,7 @@ export const Desktop_OurteamSectionThird: FC<DesktopSectionFirstProps> = ({
             <Image width={550} height={550} src={Team2} alt="team2" />
             <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center">
               <p
-                className={`text-white text-[24px] font-[600] text-center ${
+                className={`text-[#4ade80] text-[24px] font-[600] text-center ${
                   lang === "en" ? "ttfors" : "ttfors"
                 }`}
               >
@@ -151,7 +152,7 @@ export const Desktop_OurteamSectionThird: FC<DesktopSectionFirstProps> = ({
             <Image width={550} height={550} src={Team3} alt="team3" />
             <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center">
               <p
-                className={`text-white text-[24px] font-[600] text-center ${
+                className={`text-[#4ade80] text-[24px] font-[600] text-center ${
                   lang === "en" ? "ttfors" : "ttfors"
                 }`}
               >
@@ -174,7 +175,7 @@ export const Desktop_OurteamSectionFourth: FC<DesktopSectionFirstProps> = ({
   lang,
 }) => {
   return (
-    <section className="relative w-full min-h-screen h-auto">
+    <section className="relative w-full min-h-screen h-auto bg-neutral-800">
       <div className="py-20 px-10">
         <div className="flex justify-center items-center">
           <div className="w-[30%] h-[380px]">
@@ -186,7 +187,7 @@ export const Desktop_OurteamSectionFourth: FC<DesktopSectionFirstProps> = ({
               alt="card1"
             />
           </div>
-          <div className="bg-[#E8E8E8] py-12 px-20 2xl:w-[50%] xl:w-[60%] w-[80%] duration-300 ml-[-3em] z-[2]">
+          <div className="bg-[#A8A8A8] py-12 px-20 2xl:w-[50%] xl:w-[60%] w-[80%] duration-300 ml-[-3em] z-[2]">
             <h1
               className={`text-black text-[32px] font-[600] ${
                 lang === "en" ? "kiona_bold" : "kiona_bold"
