@@ -44,7 +44,7 @@ export const Desktop_OurteamSectionSecond: FC<DesktopSectionFirstProps> = ({
   lang,
 }) => {
   return (
-    <section className="relative w-full min-h-screen h-auto bg-neutral-800">
+    <section className="relative w-full min-h-screen h-auto bg-[#383838]">
       <div className="w-full min-h-screen h-full px-4 2xl:py-0 xl:py-0 py-20 2xl:flex xl:flex block justify-center flex-wrap items-center gap-6">
        
         <div className="2xl:w-[50%] xl:w-[50%] w-full h-full">
@@ -114,7 +114,7 @@ export const Desktop_OurteamSectionThird: FC<DesktopSectionFirstProps> = ({
   lang,
 }) => {
   return (
-    <section className="relative w-full h-auto bg-neutral-800">
+    <section className="relative w-full h-auto bg-[#383838]">
       <div className="py-32 px-10">
         <h1
           className={`text-white text-[60px] font-[600] text-center ${
@@ -156,7 +156,7 @@ export const Desktop_OurteamSectionThird: FC<DesktopSectionFirstProps> = ({
                   lang === "en" ? "ttfors" : "ttfors"
                 }`}
               >
-                {page.ourteam.section3.desktop.pic3}
+                {page.ourteam.section3.desktop.pic3}5115
               </p>
             </div>
           </div>
