@@ -156,7 +156,7 @@ export const Desktop_OurteamSectionThird: FC<DesktopSectionFirstProps> = ({
                   lang === "en" ? "ttfors" : "ttfors"
                 }`}
               >
-                {page.ourteam.section3.desktop.pic3}5115
+                {page.ourteam.section3.desktop.pic3}
               </p>
             </div>
           </div>
@@ -175,7 +175,7 @@ export const Desktop_OurteamSectionFourth: FC<DesktopSectionFirstProps> = ({
   lang,
 }) => {
   return (
-    <section className="relative w-full min-h-screen h-auto bg-neutral-800">
+    <section className="relative w-full min-h-screen h-auto bg-[#383838]">
       <div className="py-20 px-10">
         <div className="flex justify-center items-center">
           <div className="w-[30%] h-[380px]">
@@ -205,7 +205,7 @@ export const Desktop_OurteamSectionFourth: FC<DesktopSectionFirstProps> = ({
           </div>
         </div>
         <div className="flex justify-center items-center mt-28">
-          <div className="bg-[#E8E8E8] py-12 px-20 2xl:w-[50%] xl:w-[60%] w-[80%] duration-300 mr-[-3em] z-[2]">
+          <div className="bg-[#A8A8A8] py-12 px-20 2xl:w-[50%] xl:w-[60%] w-[80%] duration-300 mr-[-3em] z-[2]">
             <h1
               className={`text-black text-[32px] font-[600] ${
                 lang === "en" ? "kiona_bold" : "kiona_bold"
@@ -241,7 +241,7 @@ export const Desktop_OurteamSectionFourth: FC<DesktopSectionFirstProps> = ({
               alt="card3"
             />
           </div>
-          <div className="bg-[#E8E8E8] py-12 px-20 2xl:w-[50%] xl:w-[60%] w-[80%] duration-300 ml-[-3em] z-[2]">
+          <div className="bg-[#A8A8A8] py-12 px-20 2xl:w-[50%] xl:w-[60%] w-[80%] duration-300 ml-[-3em] z-[2]">
             <h1
               className={`text-black text-[32px] font-[600] ${
                 lang === "en" ? "kiona_bold" : "kiona_bold"
