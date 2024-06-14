@@ -506,7 +506,7 @@ export const Desktop_ServiceSectionSixth: FC<DesktopSectionFirstProps> = ({
                   alt="image"
                   draggable={false}
                 />
-              </div>
+              </div>sdsd
               <div className="mt-4">
                 <h1
                   className={`text-[20px] font-[700] text-white ${

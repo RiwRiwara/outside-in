@@ -37,9 +37,9 @@ const Services: FC<ServicesProps> = async ({ params }) => {
         <div className="2xl:hidden xl:hidden lg:hidden block"></div>
       </div>
       <div>
-        <div className="2xl:block xl:block lg:block hidden">
+        {/* <div className="2xl:block xl:block lg:block hidden">
           <ContactForm page={page} lang={params.lang} />
-        </div>
+        </div> */}
         <div className="2xl:hidden xl:hidden lg:hidden block"></div>
       </div>
       <div>
@@ -66,11 +66,11 @@ const Services: FC<ServicesProps> = async ({ params }) => {
         </div>
         <div className="2xl:hidden xl:hidden lg:hidden block"></div>
       </div>
-      <div>
+      {/* <div>
         <div className="2xl:block xl:block lg:block hidden">
           <ContactForm page={page} lang={params.lang} />
         </div>
-      </div>
+      </div> */}
     </Layout>
   );
 };
