@@ -60,7 +60,7 @@ const Services: FC<ServicesProps> = async ({ params }) => {
         </div>
         <div className="2xl:hidden xl:hidden lg:hidden block"></div>
       </div>
-      <div>
+      <div className="bg-[#383838">
         <div className="2xl:block xl:block lg:block hidden">
           <Desktop_ServiceSectionSeventh page={page} lang={params.lang} />
         </div>

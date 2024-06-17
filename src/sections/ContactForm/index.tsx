@@ -82,7 +82,7 @@ export const ContactForm: FC<DesktopSectionFirstProps> = ({ page, lang }) => {
 
   return (
     <>
-      <section className="text-white bg-[#383838] relative 2xl:w-[70%] xl:w-[70%] lg:w-[90%] md:w-[70%] sm:w-[70%] w-[80%] m-auto min-h-screen h-auto pb-0 2xl:pt-0 xl:pt-0 lg:pt-0 pt-10 flex justify-center items-center flex-wrap gap-y-[5em] gap-x-[2em]">
+      <section className="bg-[#383838] text-white relative 2xl:w-[70%] xl:w-[70%] lg:w-[90%] md:w-[70%] sm:w-[70%] w-[80%] m-auto min-h-screen h-auto pb-0 2xl:pt-0 xl:pt-0 lg:pt-0 pt-10 flex justify-center items-center flex-wrap gap-y-[5em] gap-x-[2em]">
         <div className="2xl:w-[45%] xl:w-[45%] lg:w-[45%] w-[100%]">
           <div className="2xl:w-[40%] xl:w-[45%] lg:w-[50%] w-[40%]">
             <Image
@@ -228,11 +228,12 @@ export const ContactForm: FC<DesktopSectionFirstProps> = ({ page, lang }) => {
                 <div
                   key={idx}
                   onClick={() => handleCheckboxChange(idx)}
-                  className="flex justify-start items-center gap-4 select-none my-1 w-fit py-1 cursor-pointer"
+                  className="flex justify-start items-center gap-4 select-none my-1 w-fit py-1 cursor-pointer "
                 >
                   <input
                     type="checkbox"
                     style={{ width: "20px", height: "20px" }}
+                    
                     checked={getTopic[idx].check}
                     onChange={(e) => {
                       return;
@@ -256,8 +257,8 @@ export const ContactForm: FC<DesktopSectionFirstProps> = ({ page, lang }) => {
         </form>
       </section>
       <Link as={`/${lang}/policy`} href={""}>
-        <div className="text-white w-full 2xl:text-right xl:text-right lg:text-right md:text-right sm:text-right text-center p-5 mt-10 cursor-pointer underline underline-offset-2">
-          <p className="text-white text-[16px]">
+        <div className="bg-[#383838]  text-white w-full 2xl:text-right xl:text-right lg:text-right md:text-right sm:text-right text-center p-5 mt-10 cursor-pointer underline underline-offset-2">
+          <p className="bg-[#383838]  text-white text-[16px]">
             {page.policy.label}
           </p>
         </div>

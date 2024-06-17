@@ -6,6 +6,7 @@
   filter: grayscale(100%);
 }
 
+
 @font-face {
   font-family: "kiona";
   src: url("../../../assets/fonts/Kiona-Regular.ttf") format("woff");

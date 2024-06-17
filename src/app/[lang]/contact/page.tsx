@@ -42,10 +42,10 @@ const Contact: FC<ContactProps> = ({ params }) => {
         </div>
       </div>
       <div>
-        <div className="2xl:block xl:block lg:block hidden">
+        <div className="bg-[#383838] 2xl:block xl:block lg:block hidden">
           <Desktop_ContactSectionSecond page={page} lang={params.lang} />
         </div>
-        <div className="2xl:hidden xl:hidden lg:hidden block">
+        <div className="bg-[#383838] 2xl:hidden xl:hidden lg:hidden block">
           <Mobile_ContactSectionSecond page={page} lang={params.lang} />
         </div>
       </div>

@@ -165,7 +165,7 @@ export const Topbar: FC<topbarProps> = ({ lang }) => {
       <div className="2xl:block xl:block lg:block hidden">
         <MenuLists lang={lang} />
       </div>
-      <div className="2xl:hidden xl:hidden lg:hidden">
+      <div className="bg-[#383838] 2xl:hidden xl:hidden lg:hidden">
         <svg
           className={`${mobileMenuOpen ? "opacity-0" : "opacity-100"}`}
           onClick={() => setMobileMenuOpen(mobileMenuOpen ? false : true)}
