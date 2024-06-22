@@ -216,7 +216,7 @@ export const Mobile_Perforated: FC<MobileSectionFirstProps> = ({
         <div className="pt-[346px] pb-[160px] flex flex-col justify-start items-start min-h-[100dvh] h-auto px-10">
           <div>
             <h1
-              className={`text-white text-[24px] font-[700] ${
+              className={`text-black text-[24px] font-[700] ${
                 lang === "en" ? "kiona_bold_bold" : "kiona_bold_bold"
               }`}
             >

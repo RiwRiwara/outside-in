@@ -209,7 +209,7 @@ export const Desktop_HomeSectionFourth: FC<DesktopSectionFirstProps> = ({
           {blogLists.map((item, idx) => (
             <div
               key={idx}
-              className="2xl:w-[30%] xl:w-[40%] lg:w-[45%] md:w-[80%] w-[100%]"
+              className="2xl:w-[30%] xl:w-[29%] lg:w-[45%] md:w-[80%] w-[100%]"
             >
               <div>
                 <Image

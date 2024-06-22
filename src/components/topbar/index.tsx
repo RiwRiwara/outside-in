@@ -17,17 +17,21 @@ const desktopMenuLists = [
     route: "/",
   },
   {
-    title: "Our Service",
+    title: "Service",
     route: "/services",
   },
   {
+    title: "Our Team",
+    route: "/ourteam",
+  },
+  {
+    title: "Career",
+    route: "/career",
+  },
+ /*  {
     title: "Projects",
     route: "#",
-  },
-  // {
-  //   title: "Our Team",
-  //   route: "/ourteam",
-  // },
+  }, */
   // {
   //   title: "Service",
   //   route: "/services",
@@ -35,11 +39,7 @@ const desktopMenuLists = [
   // {
   //   title: "Blog",
   //   route: "/blogs",
-  // },
-  // {
-  //   title: "Career",
-  //   route: "/career",
-  // },
+  // }
   {
     title: "Contact us",
     route: "/contact",
@@ -119,11 +119,14 @@ export const Topbar: FC<topbarProps> = ({ lang }) => {
     scrollY,
     [0, 100],
     [
-      `${pathname.includes("/blogs/") ? "rgba(217, 217, 217, 0.1)" : "rgba(217, 217, 217, 0.1)"}`,
+      `${
+        pathname.includes("/blogs/")
+          ? "rgba(217, 217, 217, 0.1)"
+          : "rgba(217, 217, 217, 0.1)"
+      }`,
       "rgba(217, 217, 217, 0.1)",
     ]
   );
-  
 
   const changeLang = () => {
     const switchLang = lang === "th" ? "en" : "th";
@@ -162,7 +165,7 @@ export const Topbar: FC<topbarProps> = ({ lang }) => {
       <div className="2xl:block xl:block lg:block hidden">
         <MenuLists lang={lang} />
       </div>
-      <div className="2xl:hidden xl:hidden lg:hidden">
+      <div className="bg-[#383838] 2xl:hidden xl:hidden lg:hidden">
         <svg
           className={`${mobileMenuOpen ? "opacity-0" : "opacity-100"}`}
           onClick={() => setMobileMenuOpen(mobileMenuOpen ? false : true)}

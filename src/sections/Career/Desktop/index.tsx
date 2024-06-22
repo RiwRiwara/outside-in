@@ -18,14 +18,14 @@ export const Desktop_CareerSectionFirst: FC<DesktopSectionFirstProps> = ({page, 
         <Image
           className="w-full h-full object-cover"
           src={careerBg}
-          width={1920}
+          width={1920} 
           height={500}
           alt="bg"
         />
       </div>
-      <div className="bg-[#383A3B] w-full min-h-screen h-auto px-10 py-20">
+      <div className="bg-[#383838] w-full min-h-screen h-auto px-10 py-20">
         <div className="w-[80%] m-auto">
-          <h1 className={`text-white text-[50px] font-[600] text-center ${
+          <h1 className={`text-[#4ABB90] text-[50px] font-[600] text-center ${
                 lang === "en" ? "kiona_bold" : "fcsubject_bold"
               }`}>
           {page.career.section1.desktop.header}
@@ -38,7 +38,7 @@ export const Desktop_CareerSectionFirst: FC<DesktopSectionFirstProps> = ({page, 
             
           </p>
           <div className="mt-60">
-            <h1 className={`text-white text-[50px] font-[600] text-center ${
+            <h1 className={`text-[#4ABB90] text-[50px] font-[600] text-center ${
                 lang === "en" ? "kiona_bold" : "fcsubject_bold"
               }`}>
             {page.career.section1.desktop.job}

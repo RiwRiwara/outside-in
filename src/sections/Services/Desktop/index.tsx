@@ -52,9 +52,9 @@ export const Desktop_ServiceSectionSecond: FC<DesktopSectionFirstProps> = ({
 }) => {
   return (
     <section className="relative w-full min-h-screen h-auto">
-      <div className="px-10 py-32">
+      <div className="px-10 py-32 bg-neutral-800">
         <h1
-          className={`text-center text-black  font-[400] w-[60%] m-auto ${
+          className={`text-center text-white  font-[400] w-[60%] m-auto ${
             lang === "en"
               ? "ttfors text-[24px]"
               : "fcsubject_regular text-[30px]"
@@ -62,7 +62,7 @@ export const Desktop_ServiceSectionSecond: FC<DesktopSectionFirstProps> = ({
         >
           {page.services.section1.desktop.description2}
         </h1>
-        <div className="mt-32 flex justify-center items-center gap-4">
+        <div className="mt-32 flex justify-center items-center gap-4 bg-white">
           <div>
             <a href="#innovative">
               <div className="relative">
@@ -75,7 +75,7 @@ export const Desktop_ServiceSectionSecond: FC<DesktopSectionFirstProps> = ({
                 />
                 <div className="absolute top-0 left-0 w-full py-4 px-6">
                   <p
-                    className={`text-white text-[30px] font-[600] ${
+                    className={`text-emerald-400 text-[30px] font-[600] ${
                       lang === "en" ? "kiona_bold" : "kiona_bold"
                     }`}
                   >
@@ -95,7 +95,7 @@ export const Desktop_ServiceSectionSecond: FC<DesktopSectionFirstProps> = ({
                 />
                 <div className="absolute bottom-0 left-0 w-full py-4 px-6">
                   <p
-                    className={`text-white text-[30px] font-[600] ${
+                    className={`text-emerald-400 text-[30px] font-[600] ${
                       lang === "en" ? "kiona_bold" : "kiona_bold"
                     }`}
                   >
@@ -117,7 +117,7 @@ export const Desktop_ServiceSectionSecond: FC<DesktopSectionFirstProps> = ({
                 />
                 <div className="absolute bottom-0 left-0 w-full py-4 px-6">
                   <p
-                    className={`text-white text-[30px] font-[600] text-center ${
+                    className={`text-emerald-400 text-[30px] font-[600] text-center ${
                       lang === "en" ? "kiona_bold" : "kiona_bold"
                     }`}
                   >
@@ -139,7 +139,7 @@ export const Desktop_ServiceSectionSecond: FC<DesktopSectionFirstProps> = ({
                 />
                 <div className="absolute bottom-0 left-0 w-full py-4 px-6">
                   <p
-                    className={`text-white text-[30px] font-[600] text-center ${
+                    className={`text-emerald-500 text-[30px] font-[600] text-center ${
                       lang === "en" ? "kiona_bold" : "kiona_bold"
                     }`}
                   >
@@ -506,7 +506,7 @@ export const Desktop_ServiceSectionSixth: FC<DesktopSectionFirstProps> = ({
                   alt="image"
                   draggable={false}
                 />
-              </div>
+              </div>sdsd
               <div className="mt-4">
                 <h1
                   className={`text-[20px] font-[700] text-white ${

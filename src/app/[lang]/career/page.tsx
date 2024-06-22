@@ -43,11 +43,11 @@ const Career: FC<CareerProps> = ({ params }) => {
           <Mobile_Footer page={page} lang={params.lang} />
         </div>
       </div>
-      <div>
+      {/* <div>
         <div className="2xl:block xl:block lg:block hidden">
           <ContactForm page={page} lang={params.lang} />
         </div>
-      </div>
+      </div> */}
     </Layout>
   );
 };
