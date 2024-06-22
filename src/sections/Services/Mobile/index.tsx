@@ -1,7 +1,8 @@
 "use client";
 import { FC, useEffect, useState } from "react";
 import Link from "next/link";
-import { useSearchParams } from "next/navigation";
+import React, { Suspense } from 'react';
+
 import { getDictionary } from "@/lib/dictionary";
 import { Locale } from "@/i18n.config";
 
@@ -16,13 +17,8 @@ export const Mobile_ServiceSectionFirst: FC<MobileSectionFirstProps> = ({
 }) => {
   const [selectType, setSelectType] = useState("START");
 
-  const searchParams = useSearchParams();
-  const search = searchParams.get("type");
 
   useEffect(() => {
-    if (search !== null) {
-      setSelectType(search);
-    }
   }, []);
 
   const menuLists = [
