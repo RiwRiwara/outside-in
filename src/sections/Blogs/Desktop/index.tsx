@@ -43,14 +43,14 @@ export const Desktop_BlogSectionSecond: FC<DesktopSectionFirstProps> = ({
           {blogLists.map((item, idx) => (
             <div
               key={idx}
-              className="2xl:w-[30%] xl:w-[40%] lg:w-[45%] md:w-[80%] w-[100%]"
+              className="2xl:w-[30%] xl:w-[30%] lg:w-[45%] md:w-[80%] w-[100%]"
             >
-              <div>
+              <div className="h-[200px]">
                 <Image
                   src={item.image}
-                  className="w-full h-full object-cover bg-cover"
-                  width={500}
-                  height={500}
+                  className="w-full h-full object-cover bg-cover h-[200px]"
+                  width={389}
+                  height={279}
                   priority
                   alt="bannerBlog"
                 />
