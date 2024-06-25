@@ -45,7 +45,7 @@ export const Desktop_BlogSectionSecond: FC<DesktopSectionFirstProps> = ({
               key={idx}
               className="2xl:w-[30%] xl:w-[30%] lg:w-[45%] md:w-[80%] w-[100%]"
             >
-              <div className="h-[200px]">
+              <div>
                 <Image
                   src={item.image}
                   className="w-full h-full object-cover bg-cover h-[200px]"
