@@ -6,7 +6,6 @@
   filter: grayscale(100%);
 }
 
-
 @font-face {
   font-family: "kiona";
   src: url("../../../assets/fonts/Kiona-Regular.ttf") format("woff");
@@ -70,7 +69,6 @@ html {
 .fcsubject_bold {
   font-family: "FC Subject bold", sans-serif;
 }
-
 
 .service-mobile-start-bg {
   background-image: url("../../../assets/images/services/mobile/main.png");
@@ -333,3 +331,5 @@ html {
   top: 0;
   left: 0;
 }
+
+

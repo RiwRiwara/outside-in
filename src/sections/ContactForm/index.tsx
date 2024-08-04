@@ -138,7 +138,7 @@ export const ContactForm: FC<DesktopSectionFirstProps> = ({ page, lang }) => {
                   target="_blank"
                 >
                   <Image
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-cover bg-white"
                     src={facebookIcon}
                     width={50}
                     height={50}
