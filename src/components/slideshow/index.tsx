@@ -34,7 +34,7 @@ const Slideshow: FC = () => {
         ([entry]) => {
           setIsZoomed(entry.isIntersecting);
         },
-        { threshold: 0.5 } // Adjust threshold as needed
+        { threshold: 0.5 }
       );
 
       if (imgRef.current) {

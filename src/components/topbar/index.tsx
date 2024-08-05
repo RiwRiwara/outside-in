@@ -11,13 +11,15 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAngleRight } from "@fortawesome/free-solid-svg-icons";
 import { Locale } from "@/i18n.config";
 
+import Drawer from "@/components/topbar/drawer";
+
 const desktopMenuLists = [
   {
     title: "Home",
     route: "/",
   },
   {
-    title: "Service",
+    title: "Our Service",
     route: "/services",
   },
   {
@@ -28,7 +30,7 @@ const desktopMenuLists = [
     title: "Career",
     route: "/career",
   },
- /*  {
+  /*  {
     title: "Projects",
     route: "#",
   }, */
@@ -56,7 +58,7 @@ const mobileMenuLists = [
     route: "/ourteam",
   },
   {
-    title: "Service",
+    title: "Our Service",
     route: "/services",
   },
   {
@@ -83,6 +85,10 @@ const MenuLists: FC<topbarProps> = ({ lang }) => {
           </li>
         </Link>
       ))}
+      
+      <Drawer  />
+
+      
     </div>
   );
 };

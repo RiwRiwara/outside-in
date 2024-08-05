@@ -341,8 +341,8 @@ html {
 }
 
 .zoomed {
-  transform: scale(1.1);
-  transition: transform 10s ease-in-out; 
+  transform: scale(1.2);
+  transition: transform 8s ease-in-out; 
 }
 
 @keyframes zoomIn {
