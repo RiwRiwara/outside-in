@@ -15,6 +15,7 @@ export const Desktop_HomeSectionFirst: FC<DesktopSectionFirstProps> = ({
   lang,
 }) => {
   return (
+    
     <section className="relative w-full h-screen">
       <div className="z-[-1] absolute top-0 left-0 w-full h-full">
         <Slideshow />
