@@ -11,7 +11,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAngleRight } from "@fortawesome/free-solid-svg-icons";
 import { Locale } from "@/i18n.config";
 
-import Drawer from "@/components/topbar/drawer";
+import Drawer from "@/components/topbar/Drawer";
 
 const desktopMenuLists = [
   {
