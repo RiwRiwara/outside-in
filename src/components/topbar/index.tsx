@@ -17,21 +17,21 @@ const desktopMenuLists = [
     route: "/",
   },
   {
-    title: "Service",
+    title: "Our Service",
     route: "/services",
   },
-  {
+  /* {
     title: "Our Team",
     route: "/ourteam",
   },
   {
     title: "Career",
     route: "/career",
-  },
- /*  {
+  }, */
+  {
     title: "Projects",
     route: "#",
-  }, */
+  },
   // {
   //   title: "Service",
   //   route: "/services",
